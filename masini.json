@@ -1,0 +1,82 @@
+{
+  "4": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "4",
+    "model": "Fiat",
+    "an_achizitie": 2020,
+    "nr_km": 50000.0,
+    "garantie": "da"
+  },
+  "2": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "2",
+    "model": "BMW",
+    "an_achizitie": 2020,
+    "nr_km": 450.0,
+    "garantie": "da"
+  },
+  "3": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "3",
+    "model": "Audi",
+    "an_achizitie": 2016,
+    "nr_km": 8000.0,
+    "garantie": "nu"
+  },
+  "5": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "5",
+    "model": "Tesla",
+    "an_achizitie": 2021,
+    "nr_km": 200.0,
+    "garantie": "nu"
+  },
+  "1": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "1",
+    "model": "Tesla",
+    "an_achizitie": 2021,
+    "nr_km": 100.0,
+    "garantie": "da"
+  },
+  "2528": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "2528",
+    "model": "Tesla",
+    "an_achizitie": 1507,
+    "nr_km": 426944.38703497866,
+    "garantie": "da"
+  },
+  "4390": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "4390",
+    "model": "Toyota",
+    "an_achizitie": 1970,
+    "nr_km": 134074.90334445616,
+    "garantie": "nu"
+  },
+  "1538": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "1538",
+    "model": "BMW",
+    "an_achizitie": 1613,
+    "nr_km": 461759.9516963225,
+    "garantie": "da"
+  },
+  "8736": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "8736",
+    "model": "Tesla",
+    "an_achizitie": 1985,
+    "nr_km": 283704.6686060237,
+    "garantie": "da"
+  },
+  "5348": {
+    "py/object": "Domain.masina.Masina",
+    "id_entitate": "5348",
+    "model": "Audi",
+    "an_achizitie": 1979,
+    "nr_km": 18190.394233145613,
+    "garantie": "nu"
+  }
+}
