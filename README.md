@@ -4,9 +4,9 @@ designed to efficiently manage the inventory of cars,
 client information and transactional data.
 
 ## Functionalities
-* CRUD car
-* CRUD client card
-* CRUD transaction
+* CRUD cars
+* CRUD client cards
+* CRUD transactions
 * Search for cars and clients. Full-text search
 * Displaying all transactions with a sum within a given interval
 * Displaying cars ordered in descending order by the amount obtained for the repair work
